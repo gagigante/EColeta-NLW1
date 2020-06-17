@@ -91,14 +91,14 @@ server/src/controllers/PointsController.ts
     return {
       id: point.id,
       title: point.title ,
-      image_url: `http://192.168.0.107:3333/uploads/${point.image}`,
+      image_url: `http://YOUR_IP_ADDRES:3333/uploads/${point.image}`,
     };
   });
 ```
 ```
   const serializedPoint = {
     ...point,
-    image_url: `http://192.168.0.107:3333/uploads/${point.image}`,
+    image_url: `http://YOUR_IP_ADDRES:3333/uploads/${point.image}`,
   };
 
 ```
