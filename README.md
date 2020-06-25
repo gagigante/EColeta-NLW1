@@ -47,7 +47,7 @@ This project was developed with the following techs:
 
 ## 💻 Project
 
-Ecoleta is a marketplace to help people find places to waste collection points efficiently.
+Ecoleta is a marketplace to help people to find garbage collection points efficiently.
 
 ## :runner: How to run
 
