@@ -55,7 +55,7 @@ Ecoleta is a marketplace to help people to find garbage collection points effici
 
 ### So access the fold `server` and run:
 
-To install dependences
+To install dependencies
 ```
   $ yarn
   
@@ -116,7 +116,7 @@ To start de server
 ### WEB: 
 ### Just access the fold `web` and run:
 
-To install dependences
+To install dependencies
 ```
   $ yarn
   
@@ -148,7 +148,7 @@ export default api;
 ```
 
 ### So access the fold `mobile` and run:
-To install dependences
+To install dependencies
 ```
   $ yarn
   
